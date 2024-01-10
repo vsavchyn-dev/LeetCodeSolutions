@@ -20,7 +20,7 @@ public:
             else {
                 n = n - 1;
             }
-            cntr++;
+            noOfOperations++;
         }
         return noOfOperations;
     }
